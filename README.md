@@ -26,5 +26,7 @@ Sou Engenheiro de Computação e apaixonado por Qualidade de Software!
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/check-solid.svg" width="10" height="10" style="max-width:100%;"> SFC - Scrum Fundamentals Certified
  </p>
-
-
+<h2>
+<img src="https://cdn.worldvectorlogo.com/logos/wordmark-black-medium.svg" alt="Trello" width="100" style="max-width:100%;">
+</h2>
+https://medium.com/@DanielFerreiraRabelo
